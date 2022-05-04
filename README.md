@@ -1,2 +1,4 @@
 # Certificates
-All cetificates I have recieve for all courses that I studied.
+Todos os certificados que já recebi, das intituições e cursos que estudei.
+
+Sorry, the certificates are all in Portuguese.
